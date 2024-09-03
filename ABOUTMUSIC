@@ -1,0 +1,8 @@
+#AboutMusic
+
+Since I'm just a newbie programmer, I'm having trouble with the sound files in Adventure Game 2, 
+so you'll have to do the following to get the music to play correctly. 
+To get started, download the sound files and place them where it is convenient for you (preferably in the same folder). 
+Then open the Program.cs file in Visual Studio, or if you don't have it, open the file in Notepad. 
+Then scroll to about line 500 and where it says SoundPlayer <name> = new SoundPlayer(...) you need to insert the address of 
+the files that you downloaded and save where indicated. That's it, now the music works correctly and you can enjoy the game :)!
