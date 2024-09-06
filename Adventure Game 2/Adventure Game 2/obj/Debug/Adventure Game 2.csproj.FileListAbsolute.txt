@@ -1,0 +1,7 @@
+C:\Users\Всеволод\source\repos\Adventure Game 2\Adventure Game 2\bin\Debug\Adventure Game 2.exe.config
+C:\Users\Всеволод\source\repos\Adventure Game 2\Adventure Game 2\bin\Debug\Adventure Game 2.exe
+C:\Users\Всеволод\source\repos\Adventure Game 2\Adventure Game 2\bin\Debug\Adventure Game 2.pdb
+C:\Users\Всеволод\source\repos\Adventure Game 2\Adventure Game 2\obj\Debug\Adventure Game 2.csproj.AssemblyReference.cache
+C:\Users\Всеволод\source\repos\Adventure Game 2\Adventure Game 2\obj\Debug\Adventure Game 2.csproj.CoreCompileInputs.cache
+C:\Users\Всеволод\source\repos\Adventure Game 2\Adventure Game 2\obj\Debug\Adventure Game 2.exe
+C:\Users\Всеволод\source\repos\Adventure Game 2\Adventure Game 2\obj\Debug\Adventure Game 2.pdb
