@@ -1,4 +1,4 @@
-# AdventureGame2
+# Adventure Game 2
 
 This is a fairly simple console application made in C#. 
 In this game, your task is quite simple - collect the ax parts that are mentioned in the game itself and kill the zombie boss. 
