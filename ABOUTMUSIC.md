@@ -1,3 +1,5 @@
+# About Music
+
 Since I'm new to programming, I'm having problems with the sound files in Adventure Game 2. 
 so you will have to do the following to ensure the music plays correctly. 
 To get started, download the sound files and place them where it is convenient for you (preferably in the same folder). 
