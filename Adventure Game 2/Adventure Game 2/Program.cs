@@ -570,7 +570,7 @@ namespace ConsoleApp8
         static void Main()    //Game objects are created in the Main function
         {
             char[] bag = { 'X', 'X', 'X', 'X', 'X' };
-            bool music = false;
+            bool music = true;
 
             SoundPlayer soundtrack = null;
             SoundPlayer win = null;
